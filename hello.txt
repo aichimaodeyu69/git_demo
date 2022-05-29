@@ -1,4 +1,5 @@
 hello  GIT
 hello  GIT
+<<<<<<< HEAD
 hello  GIT master gai
-hello  GIT
+hello  GIT hot-fix gai
